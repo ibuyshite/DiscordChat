@@ -30,7 +30,7 @@ git clone https://github.com/ibuyshite/DiscordChat && cd DiscordChat
 1. **Fill Out The Config**:
 - Open the config.json file
 ```
-  nano config.json
+nano config.json
 ```
 - Provide your [Discord token](#How-To-Get-Discord-Token), `Channel_ID`, `message` and save the file ```Control + X```
 2. **Create a Screen:**
