@@ -23,7 +23,7 @@ sudo apt-get install screen
 ```
 2. **Download the repo**
 ```
-git clone https://github.com/mediarumpum/DiscordBot && cd DiscordBot
+git clone https://github.com/ibuyshite/DiscordChat && cd DiscordChat
 ```
 
 ## Run the Bot
@@ -35,7 +35,7 @@ git clone https://github.com/mediarumpum/DiscordBot && cd DiscordBot
 - Provide your [Discord token](#How-To-Get-Discord-Token), `Channel_ID`, `message` and save the file ```Control + X```
 2. **Create a Screen:**
 ```
-screen -Rd DiscordBot
+screen -Rd DiscordChat
 ```
 3. **Run the Script:**
 - Execute the command python3 main.py in your terminal.
